@@ -1,2 +1,2 @@
 # X-ReID
-X-ReID: Leveraging Cross-modal and Intra-modal Interactions for Video-based Visible-Infrared Person Re-Identification
+X-ReID: Multi-granularity Information Interaction for Video-based Visible-Infrared Person Re-Identification(AAAI2026 Oral)
